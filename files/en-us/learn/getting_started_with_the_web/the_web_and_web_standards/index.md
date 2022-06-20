@@ -50,7 +50,7 @@ Another phrase you'll hear around open web standards is "don't break the web" �
 
 ## Being a web developer is good
 
-The web industry is a very attractive market to enter if you are looking for a job. Recent published figures say that there are currently around 19 million web developers in the world, and that figure is set more than double in the next decade. And at the same time, there is a skill shortage in the industry — so what better time to learn web development?
+The web industry is a very attractive market to enter if you are looking for a job. Recent published figures say that there are currently around 19 million web developers in the world, and that figure is set to more than double in the next decade. And at the same time, there is a skill shortage in the industry — so what better time to learn web development?
 
 It isn't all fun and games however — building web sites is a more complicated proposition than it used to be, and you'll have to put some time in to studying all the different technologies you need to use, all the techniques and best practices you need to know, and all the typical patterns you'll be called upon to implement. It'll take you a few months to really start to get into it, and then you'll need to keep learning so that your knowledge stays up-to-date with all the new tools and features that appear on the web platform, and keep practicing and refining your craft.
 
